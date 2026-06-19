@@ -1,3 +1,5 @@
+// learn
+
 import { tabs } from "@/constants/data";
 import { colors, components } from "@/constants/theme";
 import clsx from "clsx";
